@@ -11,30 +11,30 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Eng. in School of Engineering, National Autonomous University of Mexico, 2019
+* M.Eng. in National Autonomous University of Mexico, 2021 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* July 2018 - August 2019: Service Engineer
+  * Tecno Lab S.A. de C.V.
+  * Duties included: Maintenance and calibration of QC and R&D instruments, such as particle size analyzers, particle counters, rheometers, and spectrometers.
+  * Supervisor: Carlos Chafloque, General Manager
+* January 2017 - October 2018: Intern
+  * Instituto de Ingeniería, Universidad Nacional Autónoma de México (UNAM)
+  * Duties included: I collaborated in the design of mechanical devices within the Mechanics and Energy Coordination. I worked on my Bacherlor’s thesis project, I designed and manufactured a test bench for a speed reducer prototype. I also made technical drawings for the defence process of pending patents.
+* July 2014 – April 2015: Intern
+  * Instituto de Ingeniería, Universidad Nacional Autónoma de México (UNAM)
+  * Duties included: I developed a PC app used to model a variety of biological processes based on the ADM-1, using C/C++ for the backend and GTK+ library for the frontend.
+* August 2012 – March 2013: Intern
+  * Instituto de Ingeniería, Universidad Nacional Autónoma de México (UNAM)
+  * Duties included: Bibliographical review and analysis of the implementation of rescue robotics state of the art, oriented to earthquakes response teams.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Team leadership
+* Teamwork
+* Software development
 
 Publications
 ======
@@ -56,4 +56,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Zoom Officer of the [IONS OPUMA 2020](https://sites.google.com/view/ions-opuma-2020/home), the 1st online IONS Conference, where I lead the monitors team.
