@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.Eng. in School of Engineering, National Autonomous University of Mexico, 2019
-* M.Eng. in National Autonomous University of Mexico, 2021 (expected)
+* B.Eng. in Mechatronics Engineering at School of Engineering, National Autonomous University of Mexico, 2019
+* M.Eng. in Electrical Engineering at National Autonomous University of Mexico, 2021 (expected)
 
 Work experience
 ======
