@@ -2,7 +2,7 @@
 title: "Algorithm to visualize a 3D normal surface in anisotropic crystals and the polarization states of the o- and e-waves in uniaxial crystals"
 collection: publications
 permalink: /publication/2021-3d-visualization-normal-surface-anisotropic-media
-excerpt: ''
+excerpt: 'Of the many topics generally taught in undergraduate or graduate optics courses, the propagation of light through crystals with electrical anisotropy is one of the most difficult topics for students and for teachers who do not work in this field. The purpose of this paper is to help students and teachers visualize the solution to Maxwell''s equations in electrical anisotropic crystals. An algorithm has been written in mathematica so the reader can use it to visualize the normal surface in uniaxial and biaxial crystals.'
 date: 2021-05-21
 venue: 'American Journal of Physics'
 paperurl: 'https://aapt.scitation.org/doi/full/10.1119/10.0003427'
