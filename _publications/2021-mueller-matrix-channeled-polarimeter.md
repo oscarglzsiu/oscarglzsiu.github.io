@@ -8,7 +8,3 @@ venue: 'Applied Optics'
 paperurl: 'https://www.osapublishing.org/ao/abstract.cfm?uri=ao-60-18-5456'
 citation: 'Luis Oscar González-Siu and Neil C. Bruce, &quot;Analysis of experimental errors in Mueller matrix channeled polarimeters,.&quot; <i>Appl. Opt.</i> 60, 5456-5464 (2021)'
 ---
-
-#[Download paper here](https://www.osapublishing.org/ao/abstract.cfm?uri=ao-60-18-5456)
-
-Recommended citation: Luis Oscar González-Siu and Neil C. Bruce, "Analysis of experimental errors in Mueller matrix channeled polarimeters," <i>Appl. Opt.</i> 60, 5456-5464 (2021).
