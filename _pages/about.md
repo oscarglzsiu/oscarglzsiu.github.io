@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Oscar Gonzalez, Eng. - portfolio"
+title: "Oscar Gonzalez, MEng. - portfolio"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
