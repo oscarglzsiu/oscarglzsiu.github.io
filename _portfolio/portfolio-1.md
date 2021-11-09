@@ -8,6 +8,4 @@ This Matlab library is intended to run simulations of Stokes and Mueller matrix 
 
 [Go to the repository](https://github.com/oscarglzsiu/channeledspectropolarimetry.git)
 
-Furthermore, these codes have also been tested using Octave.
-
 29-June-2021. The solutions presented have been tested assuming the retarders are made of quartz, other materials are under test.
